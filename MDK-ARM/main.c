@@ -1,6 +1,6 @@
 #include "stm32f4xx_hal.h"
 #include "stm32f10x.h"
- 
+ #define key 'b8e7ae12510bdfb1812e463a7f086122cf37e4f7'
 /* User defined function prototypes */
 void GPIOA_Init(void);
 void USART1_Init(void);
